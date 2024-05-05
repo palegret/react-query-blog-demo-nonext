@@ -10,8 +10,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.34.2",
+    "@tanstack/react-query-devtools": "^5.34.2",
+    "axios": "^1.6.8",
+    "eslint-plugin-prettier": "^5.1.3",
+    "prettier": "^3.2.5",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.2.0",
+    "react-router-dom": "^6.23.0",
+    "shortid": "^2.2.16",
+    "styled-components": "^6.1.9",
+    "styled-normalize": "^8.1.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
